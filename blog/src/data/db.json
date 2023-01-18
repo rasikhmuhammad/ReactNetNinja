@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+        "title": "My New Website",
+        "body": "Lorem impsum...",
+        "author": "Mario",
+        "id": 1
+        },
+        { 
+        "title": "UI design", 
+        "body": "Lorem impsum...", 
+        "author": "rasikh", 
+        "id": 2 
+        },
+        {
+        "title": "Web design top tips",
+        "body": "Lorem impsum...",
+        "author": "Luigi",
+        "id": 3
+        }
+    ]
+}
